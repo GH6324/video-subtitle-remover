@@ -176,6 +176,13 @@ python gui.py
 python ./backend/main.py
 ```
 
+## Community Support
+
+Sponsored By DartNode
+
+<a href="https://dartnode.com/"><img src="https://github.com/YaoFANGUK/video-subtitle-remover/raw/main/design/dartnode.png" width="600"></a>
+
+
 ## Common Issues
 
 1. How to deal with slow removal speed
