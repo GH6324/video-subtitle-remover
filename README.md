@@ -224,6 +224,12 @@ LAMA_SUPER_FAST = False  # 保证效果
 
 解决方案：升级7-zip解压程序到最新版本
 
+## 社区支持
+
+Sponsored By DartNode
+
+<img src="https://dartnode.com/assets/dash/images/brand/logo.png" width="600">
+
 
 ## 赞助
 
