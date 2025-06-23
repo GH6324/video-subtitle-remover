@@ -178,9 +178,8 @@ python ./backend/main.py
 
 ## Community Support
 
-Sponsored By DartNode
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
-<a href="https://dartnode.com/"><img src="https://github.com/YaoFANGUK/video-subtitle-remover/raw/main/design/dartnode.png" width="600"></a>
 
 
 ## Common Issues
