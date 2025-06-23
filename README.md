@@ -228,7 +228,7 @@ LAMA_SUPER_FAST = False  # 保证效果
 
 Sponsored By DartNode
 
-<img src="https://dartnode.com/assets/dash/images/brand/logo.png" width="600">
+<img src="https://github.com/YaoFANGUK/video-subtitle-extractor/raw/main/design/dartNode.png" width="600">
 
 
 ## 赞助
