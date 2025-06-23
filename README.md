@@ -226,9 +226,7 @@ LAMA_SUPER_FAST = False  # 保证效果
 
 ## 社区支持
 
-Sponsored By DartNode
-
-<a href="https://dartnode.com/"><img src="https://github.com/YaoFANGUK/video-subtitle-remover/raw/main/design/dartnode.png" width="600"></a>
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 
 ## 赞助
